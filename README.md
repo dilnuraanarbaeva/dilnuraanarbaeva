@@ -42,12 +42,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilnuraanarbaeva&show_icons=true&theme=dark&cache_seconds=1800&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilnuraanarbaeva&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilnuraanarbaeva&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilnuraanarbaeva&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 ---
