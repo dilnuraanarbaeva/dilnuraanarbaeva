@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Future AI specialist</h3>
 
 ---
 
 ## 🌟 About Me
 
-- 💻 Frontend Developer
-- 🚀 React / Next.js / TypeScript
+- 💻 FUTURE AI SPECIALIST
+- 🚀 React / Next.js / TypeScript / Python
 - 📚 Learning every day
 - 🌍 From Uzbekistan
 
