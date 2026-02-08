@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Dilnura</h1>
 <h3 align="center">Future AI specialist</h3>
 
 ---
@@ -42,12 +42,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilnuraanarbaeva&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilnuraanarbaeva&show_icons=true&theme=dark&cache_seconds=1800&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilnuraanarbaeva&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilnuraanarbaeva&layout=compact&theme=dark&hide_border=true" />
 </p>
+
 
 ---
 
